@@ -1,12 +1,12 @@
 {
-    "name": "xxy/wechat",
+    "name": "wildcloud/wechat",
     "keywords": ["laravel", "weixin", "CorporationWechat","SDK"],
     "license": "MIT",
     "description": "CorporationWechat SDK for Laravel 4 微信企业号SDK",
     "authors": [
         {
-            "name": "xxy",
-            "email": "xxywdl@163.com"
+            "name": "wildcloud",
+            "email": "wildcloud3@gmail.com.com"
         }
     ],
     "require": {
